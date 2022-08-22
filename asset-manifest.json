@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/SEC_Portfolio/static/css/main.d68b03d4.chunk.css",
+    "main.js": "/SEC_Portfolio/static/js/main.c54f96b4.chunk.js",
+    "main.js.map": "/SEC_Portfolio/static/js/main.c54f96b4.chunk.js.map",
+    "runtime-main.js": "/SEC_Portfolio/static/js/runtime-main.c986bf2d.js",
+    "runtime-main.js.map": "/SEC_Portfolio/static/js/runtime-main.c986bf2d.js.map",
+    "static/js/2.ee1e81dd.chunk.js": "/SEC_Portfolio/static/js/2.ee1e81dd.chunk.js",
+    "static/js/2.ee1e81dd.chunk.js.map": "/SEC_Portfolio/static/js/2.ee1e81dd.chunk.js.map",
+    "index.html": "/SEC_Portfolio/index.html",
+    "static/css/main.d68b03d4.chunk.css.map": "/SEC_Portfolio/static/css/main.d68b03d4.chunk.css.map",
+    "static/js/2.ee1e81dd.chunk.js.LICENSE.txt": "/SEC_Portfolio/static/js/2.ee1e81dd.chunk.js.LICENSE.txt",
+    "static/media/AVSC1.e628dfdd.jpeg": "/SEC_Portfolio/static/media/AVSC1.e628dfdd.jpeg",
+    "static/media/CryptographyVisualizer.873e9d90.png": "/SEC_Portfolio/static/media/CryptographyVisualizer.873e9d90.png",
+    "static/media/Qa1.93b408ff.png": "/SEC_Portfolio/static/media/Qa1.93b408ff.png",
+    "static/media/blobby.6b3f6eb6.png": "/SEC_Portfolio/static/media/blobby.6b3f6eb6.png",
+    "static/media/distance-two-locations.386e1a9c.jpg": "/SEC_Portfolio/static/media/distance-two-locations.386e1a9c.jpg",
+    "static/media/ec1.f27b17f8.png": "/SEC_Portfolio/static/media/ec1.f27b17f8.png",
+    "static/media/geo-guess.21a94994.png": "/SEC_Portfolio/static/media/geo-guess.21a94994.png",
+    "static/media/geolocation-api.a10d8bed.jpg": "/SEC_Portfolio/static/media/geolocation-api.a10d8bed.jpg",
+    "static/media/gf.05c37469.png": "/SEC_Portfolio/static/media/gf.05c37469.png",
+    "static/media/gfolio.4b968882.png": "/SEC_Portfolio/static/media/gfolio.4b968882.png",
+    "static/media/info.df517275.png": "/SEC_Portfolio/static/media/info.df517275.png",
+    "static/media/jpg2svg.e3e3744c.png": "/SEC_Portfolio/static/media/jpg2svg.e3e3744c.png",
+    "static/media/libre-logos.6f766b7c.svg": "/SEC_Portfolio/static/media/libre-logos.6f766b7c.svg",
+    "static/media/linkedIn-icon.68ac41e1.png": "/SEC_Portfolio/static/media/linkedIn-icon.68ac41e1.png",
+    "static/media/suitcase.e14b0bb3.png": "/SEC_Portfolio/static/media/suitcase.e14b0bb3.png",
+    "static/media/svg-advantages-and-disadvantages.22116676.jpg": "/SEC_Portfolio/static/media/svg-advantages-and-disadvantages.22116676.jpg",
+    "static/media/tutcode.ec4d5511.png": "/SEC_Portfolio/static/media/tutcode.ec4d5511.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c986bf2d.js",
+    "static/js/2.ee1e81dd.chunk.js",
+    "static/css/main.d68b03d4.chunk.css",
+    "static/js/main.c54f96b4.chunk.js"
+  ]
+}
